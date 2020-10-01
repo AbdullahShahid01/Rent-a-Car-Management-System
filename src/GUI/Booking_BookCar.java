@@ -38,7 +38,7 @@ public class Booking_BookCar extends JFrame {
                 dispose();
             }
         });
-
+        //Button initialization
         Book_Button = new JButton("Book");
         Cancel_Button = new JButton("Cancel");
 
